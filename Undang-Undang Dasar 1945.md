@@ -32,7 +32,7 @@ Majelis Permusyawaratan Rakyat menetapkan Undang-Undang Dasar dan garis-garis be
 2. Dalam melakukan kewajibannya Presiden dibantu oleh satu orang Wakil Presiden.
 
 #### Pasal 5
-1. Presiden memegang kekuasaan membentuk undang-undang dengan persetujuan Dewan Perwakilan Rakyat.
+1. Presiden berhak mengajukan rancangan undang-undang kepada Dewan Perwakilan Rakyat.
 2. Presiden menetapkan peraturan pemerintah untuk menjalankan undang-undang sebagaimana mestinya.
 
 #### Pasal 6
@@ -40,19 +40,21 @@ Majelis Permusyawaratan Rakyat menetapkan Undang-Undang Dasar dan garis-garis be
 2. Presiden dan Wakil Presiden dipilih oleh Majelis Permusyawaratan Rakyat dengan suara yang terbanyak.
 
 #### Pasal 7
-Presiden dan Wakil Presiden memegang jabatannya selama masa lima tahun, dan sesudahnya dapat dipilih kembali.
+Presiden dan Wakil Presiden memegang jabatan selama lima tahun, dan sesudahnya dapat dipilih kembali dalam jabatan yang sama, hanya untuk satu kali masa jabatan.
 
 #### Pasal 8
 Jika Presiden mangkat, berhenti, atau tidak dapat melakukan kewajibannya dalam masa jabatannya, ia diganti oleh Wakil Presiden sampai habis waktunya.
 
 #### Pasal 9
-Sebelum memangku jabatannya, Presiden dan Wakil Presiden bersumpah menurut agama, atau berjanji dengan sungguh-sungguh di hadapan Majelis Permusyawaratan Rakyat atau Dewan Perwakilan Rakyat sebagai berikut : 
+1. Sebelum memangku jabatannya, Presiden dan Wakil Presiden bersumpah menurut agama, atau berjanji dengan sungguh-sungguh di hadapan Majelis Permusyawaratan Rakyat atau Dewan Perwakilan Rakyat sebagai berikut : 
 
 Sumpah Presiden (Wakil Presiden) : 
 *“Demi Allah, saya bersumpah akan memenuhi kewajiban Presiden Republik Indonesia (Wakil Presiden Republik Indonesia) dengan sebaik-baiknya dan seadil-adilnya, memegang teguh Undang-Undang Dasar dan menjalankan segala undang-undang dan peraturannya dengan selurus-lurusnya serta berbakti kepada Nusa dan Bangsa”.* 
 
 Janji Presiden (Wakil Presiden) :
 *“Saya berjanji dengan sungguh-sungguh akan memenuhi kewajiban Presiden Republik Indonesia (Wakil Presiden Republik Indonesia) dengan sebaik-baiknya dan seadil-adilnya, memegang teguh Undang-Undang Dasar dan menjalankan segala undang-undang dan peraturannya dengan selurus-lurusnya serta berbakti kepada Nusa dan Bangsa”.*
+
+2. Jika Majelis Permusyawaratan Rakyat atau Dewan Perwakilan Rakyat tidak dapat mengadakan sidang, Presiden dan Wakil Presiden bersumpah menurut agama, atau berjanji dengan sungguh-sungguh di hadapan pimpinan Majelis Permusyawaratan Rakyat dengan disaksikan oleh pimpinan Mahkamah Agung.
 
 #### Pasal 10
 Presiden memegang kekuasaan yang tertinggi atas Angkatan Darat, Angkatan Laut dan Angkatan Udara.
@@ -66,12 +68,15 @@ Presiden menyatakan keadaan bahaya. Syarat-syarat dan akibatnya keadaan bahaya d
 #### Pasal 13
 1. Presiden mengangkat duta dan konsul.
 2. Presiden menerima duta negara lain.
+3. Dalam hal mengangkat duta, Presiden memperhatikan pertimbangan Dewan Perwakilan Rakyat.
+4. Presiden menerima penempatan duta negara lain dengan menperhatikan pertimbangan Dewan Perwakilan Rakyat.
 
 #### Pasal 14
-Presiden memberi grasi, amnesti, abolisi dan rehabilitasi.
+1. Presiden memberi grasi dan rehabilitasi dengan memperhatikan pertimbangan Mahkamah Agung.
+2. Presiden memberi amnesti dan abolisi dengan memperhatikan pertimbangan Dewan Perwakilan Rakyat.
 
 #### Pasal 15
-Presiden memberi gelaran, tanda jasa dan lain-lain tanda kehormatan.
+Presiden memberi gelaran, tanda jasa dan lain-lain tanda kehormatan yang diatur dengan undang-undang.
 
 ### BAB IV - DEWAN PERTIMBANGAN AGUNG
 #### Pasal 16
@@ -81,8 +86,8 @@ Presiden memberi gelaran, tanda jasa dan lain-lain tanda kehormatan.
 ### BAB V - KEMENTERIAN NEGARA
 #### Pasal 17
 1. Presiden dibantu oleh menteri-menteri negara.
-2. Menteri-menteri itu diangkat dan diperhentikan oleh Presiden.
-3. Menteri-menteri itu memimpin departemen pemerintah.
+2. Menteri-menteri itu diangkat dan diberhentikan oleh Presiden.
+3. Setiap menteri membidangi urusan tertentu dalam pemerintahan.
 
 ### BAB VI - PEMERINTAH DAERAH
 #### Pasal 18
@@ -94,12 +99,13 @@ Pembagian daerah Indonesia atas daerah besar dan kecil, dengan bentuk susunan pe
 2. Dewan Perwakilan Rakyat bersidang sedikitnya sekali dalam setahun.
 
 #### Pasal 20
-1. Tiap-tiap undang-undang menghendaki persetujuan Dewan Perwakilan Rakyat.
-2. Jika sesuatu rancangan undang-undang tidak mendapat persetujuan Dewan Perwakilan Rakyat, maka rancangan tadi tidak boleh dimajukan lagi dalam persidangan Dewan Perwakilan Rakyat masa itu.
+1. Dewan Perwakilan Rakyat memegang kekuasaan membentuk undang-undang.
+2. Setiap rancangan undang-undang dibahas oleh Dewan Perwakilan Rakyat dan Presiden untuk mendapat persetujuan bersama.
+3. Jika rancangan undang-undang tidak mendapat persetujuan bersama, rancangan undang-undang itu tidak boleh diajukan lagi dalam persidangan Dewan Perwakilan Rakyat masa itu.
+4. Presiden mengesahkan rancangan undang-undang yang telah disetujui bersama untuk menjadi undang-undang.
 
 #### Pasal 21
-1. Anggota-anggota Dewan Perwakilan Rakyat berhak memajukan rancangan undang-undang.
-2. Jika rancangan itu, meskipun disetujui oleh Dewan Perwakilan Rakyat, tidak disahkan oleh Presiden, maka rancangan tadi tidak boleh dimajukan lagi dalam persidangan Dewan Perwakilan Rakyat masa itu.
+Anggota Dewan Perwakilan Rakyat berhak mengajukan usul rancangan undang-undang.
 
 #### Pasal 22
 1. Dalam hal ihwal kegentingan yang memaksa, Presiden berhak menetapkan peraturan pemerintah sebagai pengganti undang-undang.
@@ -128,7 +134,7 @@ Syarat-syarat untuk menjadi dan untuk diperhentikan sebagai hakim ditetapkan den
 2. Syarat-syarat yang mengenai kewarganegaraan ditetapkan dengan undang-undang.
 
 #### Pasal 27
-1. Segala warga negara bersamaan kedudukannya di dalam hukum dan pemerintahan dan wajib menjunjung hukum dan pemerintahan itu dengan tidak ada kecualinya.
+1. Setiap warga negara berhak dan wajib ikut serta dalam upaya pembelaan negara.
 2. Tiap-tiap warga negara berhak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan.
 
 #### Pasal 28
