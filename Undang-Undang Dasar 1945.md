@@ -20,14 +20,14 @@ Kemudian dari pada itu untuk membentuk suatu Pemerintah Negara Indonesia yang me
 
 ### BAB II - MAJELIS PERMUSYAWARATAN RAKYAT
 #### Pasal 2
-1. Majelis Permusyawaratan Rakyat terdiri atas anggota-anggota Dewan Perwakilan Rakyat, ditambah dengan utusan-utusan dari daerah-daerah dan golongan-golongan, menurut aturan yang ditetapkan dengan undang-undang.
+1. Majelis Permusyawaratan Rakyat terdiri atas anggota-anggota Dewan Perwakilan Rakyat dan anggota Dewan Perwakilan Daerah yang pilih melalui pemilihan umum dan diatur lebih lanjut dengan undang-undang. 
 2. Majelis Permusyawaratan Rakyat bersidang sedikitnya sekali dalam lima tahun di ibu kota negara.
 3. Segala putusan Majelis Permusyawaratan Rakyat ditetapkan dengan suara yang terbanyak.
 
 #### Pasal 3
 1. Majelis Permusyawaratan Rakyat berwenang mengubah dan menetapkan Undang-Undang Dasar.
-3. Majelis Permusyawaratan Rakyat melantik Presiden dan/atau Wakil Presiden.
-4. Majelis Permusyawaratan Rakyat hanya dapat memberhentikan Presiden dan/atau Wakil Presiden dalam masa jabatannya menurut Undang-Undang Dasar.
+2. Majelis Permusyawaratan Rakyat melantik Presiden dan/atau Wakil Presiden.
+3. Majelis Permusyawaratan Rakyat hanya dapat memberhentikan Presiden dan/atau Wakil Presiden dalam masa jabatannya menurut Undang-Undang Dasar.
 
 ### BAB III - KEKUASAAN PEMERINTAHAN NEGARA
 #### Pasal 4
@@ -46,6 +46,7 @@ Kemudian dari pada itu untuk membentuk suatu Pemerintah Negara Indonesia yang me
 1. Presiden dan Wakil Presiden dipilih dalam satu pasangan secara langsung oleh rakyat.
 2. Pasangan calon Presiden dan Wakil Presiden diusulkan oleh partai politik atau gabungan partai politik peserta pemilihan umum sebelum pelaksanaan pemilihan umum.
 3. Pasangan calon Presiden dan Wakil Presiden yang mendapatkan suara lebih dari lima puluh persen dari jumlah suara dalam pemilihan umum dengan sedikitnya dua puluh persen suara di setiap provinsi yang tersebar di lebih dari setengah jumlah provinsi di Indonesia, dilantik menjadi Presiden dan Wakil Presiden.
+4. Dalam hal tidak ada pasangan calon Presiden dan Wakil Presiden terpilih dua pasangan calon yang memperoleh suara terbanyak pertama dan kedua dalam pemilihan umum dipilih oleh rakyat secara langsung dan pasangan yang memperoleh suara rakyat terbanyak dilantik sebagai Presiden dan Wakil Presiden.
 5. Tata cara pelaksanaan pemilihan Presiden dan Wakil Presiden lebih lanjut diatur dalam undang-undang.
 
 #### Pasal 7
@@ -69,6 +70,7 @@ Presiden tidak dapat membekukan dan/atau membubarkan Dewan Perwakilan Rakyat.
 #### Pasal 8
 1. Jika Presiden mangkat, berhenti, diberhentikan, atau tidak dapat melakukan kewajibannya dalam masa jabatannya, ia digantikan oleh Wakil Presiden sampai habis masa jabatannya.
 2. Dalam hal terjadi kekosongan Wakil Presiden, selambat-lambatnya dalam waktu enam puluh hari, Majelis Permusyawaratan Rakyat menyelenggarakan sidang untuk memilih Wakil Presiden dari dua calon yang diusulkan oleh Presiden.
+3. Jika Presiden dan Wakil Presiden mangkat, berhenti, diberhentikan atau tidak dapat melakukan kewajibannya dalam masa jabatannya secara bersamaan, pelaksana tugas kepresidenan adalah Menteri Luar Negeri, Menteri Dalam Negeri, dan Menteri Pertahanan secara bersama-sama. Selambat-lambatnya tigapuluh hari setelah itu, Majelis Permusyawaratan Rakyat menyelenggarakan sidang untuk memilih Presiden dan Wakil Presiden dari dua pasangan calon Presiden dan Wakil Presiden yang diusulkan oleh partai politik yang pasangan calon Presiden dan Wakil Presidennya meraih suara terbanyak pertama dan kedua dalam pemilihan umum sebelumnya, sampai akhir masa jabatannya.
 
 #### Pasal 9
 1. Sebelum memangku jabatannya, Presiden dan Wakil Presiden bersumpah menurut agama, atau berjanji dengan sungguh-sungguh di hadapan Majelis Permusyawaratan Rakyat atau Dewan Perwakilan Rakyat sebagai berikut : 
@@ -105,10 +107,8 @@ Presiden menyatakan keadaan bahaya. Syarat-syarat dan akibatnya keadaan bahaya d
 #### Pasal 15
 Presiden memberi gelaran, tanda jasa dan lain-lain tanda kehormatan yang diatur dengan undang-undang.
 
-### BAB IV - DEWAN PERTIMBANGAN AGUNG
 #### Pasal 16
-1. Susunan Dewan Pertimbangan Agung ditetapkan dengan undang-undang.
-2. Dewan ini berkewajiban memberi jawab atas pertanyaan Presiden dan berhak memajukan usul kepada pemerintah.
+Presiden membentuk suatu dewan pertimbangan yang bertugas memberikan nasihat dan pertimbangan kepada Presiden, yang selanjutnya diatur dalam undang-undang.
 
 ### BAB V - KEMENTERIAN NEGARA
 #### Pasal 17
@@ -199,8 +199,14 @@ Anggota Dewan Perwakilan Rakyat dapat diberhentikan dari jabatannya, yang syarat
 #### Pasal 23A
 Pajak dan pungutan lain yang bersifat memaksa untuk keperluan negara diatur dengan undang-undang.
 
+#### Pasal 23B
+Macam dan harga mata uang ditetapkan dengan undang-undang.
+
 #### Pasal 23C
 Hal-hal lain mengenai keuangan negara diatur dengan undang-undang.
+
+#### Pasal 23D
+Negara memiliki suatu bank sentral yang susunan, kedudukan, kewenangan, tanggung jawab, dan independensinya diatur dengan undang-undang.
 
 ### BAB VIIIA - BADAN PEMERIKSA KEUANGAN
 #### Pasal 23E
@@ -220,6 +226,7 @@ Hal-hal lain mengenai keuangan negara diatur dengan undang-undang.
 #### Pasal 24
 1. Kekuasaan kehakiman merupakan kekuasaan yang merdeka untuk menyelenggarakan peradilan guna menegakkan hukum dan keadilan.
 2. Kekuasaan kehakiman dilakukan oleh sebuah Mahkamah Agung dan badan peradilan yang berada di bawahnya dalam lingkungan peradilan umum, lingkungan peradilan agama lingkungan peradilan militer, lingkungan peradilan tata usaha negara, dan oleh sebuah Mahkamah Konstitusi.
+3. Badan-badan lain yang fungsinya berkaitan dengan kekuasaan kehakiman diatur dalam undang-undang.
 
 #### Pasal 24A
 1. Mahkamah Agung berwenang mengadili pada tingkat kasasi, menguji peraturan perundang-undangan di bawah undang-undang terhadap undang-undang, dan mempunyai wewenang lainnya yang diberikan oleh undang-undang.
@@ -247,7 +254,7 @@ Agung, tiga orang oleh Dewan Perwakilan Rakyat, dan tiga orang oleh Presiden.
 Syarat-syarat untuk menjadi dan untuk diperhentikan sebagai hakim ditetapkan dengan undang-undang.
 
 ### BAB IXA- WILAYAH NEGARA
-#### Pasal 25E
+#### Pasal 25A
 Negara Kesatuan Republik Indonesia adalah sebuah negara kepulauan yang berciri Nusantara dengan wilayah yang batas-batas dan hak-haknya ditetapkan dengan undang-undang.
 
 ### BAB X - WARGA NEGARA DAN PENDUDUK
@@ -323,22 +330,31 @@ Setiap orang berhak untuk berkomunikasi dan memperoleh informasi untuk mengemban
 4. Kepolisian Negara Republik Indonesia sebagai alat negara yang menjaga keamanan dan ketertiban masyarakat bertugas melindungi, mengayomi, melayani masyarakat, serta menegakkan hukum.
 5. Susunan dan kedudukan Tentara Nasional Indonesia, Kepolisian Negara Republik Indonesia, hubungan dan kewenangan Tentara Nasional Indonesia dan Kepolisian Negara Republik Indonesia di dalam menjalankan tugasnya, syarat-syarat keikutsertaan warga negara dalam usaha pertahanan dan keamanan diatur dengan undang-undang.
 
-### BAB XIII - PENDIDIKAN
+### BAB XIII - PENDIDIKAN DAN KEBUDAYAAN
 #### Pasal 31
-1. Tiap-tiap warga negara berhak mendapat pengajaran.
-2. Pemerintah mengusahakan dan menyelenggarakan satu sistem pengajaran nasional, yang diatur dengan undang-undang.
+1. Setiap warga negara berhak mendapat pendidikan.
+2. Setiap warga negara wajib mengikuti pendidikan dasar dan pemerintah wajib membiayainya.
+3. Pemerintah mengusahakan dan menyelenggarakan satu sistem pendidikan nasional, yang meningkatkan keimanan dan ketakwaan serta akhlak mulia dalam rangka mencerdaskan kehidupan bangsa, yang diatur dengan undang-undang.
+4. Negara memprioritaskan anggaran pendidikan sekurang-kurangnya dua puluh persen dari anggaran pendapatan dan belanja negara serta dari aggaran pendapatan dan belanja daerah untuk memenuhi kebutuhan penyelenggaraan pendidikan nasional.
+5. Pemerintah memajukan ilmu pengetahuan dan teknologi dengan menjunjung tinggi nilai-nilai agama dan persatuan bangsa untuk kemajuan peradaban serta kesejahteraan umat manusia.
 
 #### Pasal 32
-Pemerintah memajukan kebudayaan nasional Indonesia.
+1. Negara memajukan kebudayaan nasional Indonesia ditengah peradaban dunia dengan menjamin kebebasan mesyarakat dalam memelihara dalam mengembangkan nilai-nilai budayanya.
+2. Negara menghormati dan memelihara bahasa daerah sebagai kekayaan budaya nasional.
 
-### BAB XIV - KESEJAHTERAAN SOSIAL
+### BAB XIV - PEREKONOMIAN NASIONAL DAN KESEJAHTERAAN SOSIAL
 #### Pasal 33
 1. Perekonomian disusun sebagai usaha bersama berdasar atas asas kekeluargaan.
 2. Cabang-cabang produksi yang penting bagi negara dan yang menguasai hajat hidup orang banyak dikuasai oleh negara.
 3. Bumi dan air dan kekayaan alam yang terkandung di dalamnya dikuasai oleh negara dan dipergunakan untuk sebesar-besar kemakmuran rakyat.
+4. Perekonomian nasional diselenggarakan berdasar atas demokrasi ekonomi dengan prinsip kebersamaan, efisiensi berkeadilan, berkelanjutan, berwawasan lingkungan, kemandirian, serta dengan menjaga keseimbangan kemajuan dan kesatuan ekonomi nasional.
+5. Ketentuan lebih lanjut mengenai pelaksanaan pasal ini diatur dalam undang-undang.
 
 #### Pasal 34
-Fakir miskin dan anak-anak yang terlantar dipelihara oleh negara.
+1. Fakir miskin dan anak-anak terlantar dipelihara oleh negara.
+2. Negara mengembangkan sistem jaminan sosial bagi seluruh rakyat dan memberdayakan masyarakat yang lemah dan tidak mampu sesuai dengan martabat kemanusiaan.
+3. Negara bertanggung jawab atas penyediaan fasilitas pelayanan kesehatan dan fasilitas pelayanan umum yang layak.
+4. Ketentuan lebih lanjut mengenai pelaksanaan pasal ini diatur dalam undang-undang.
 
 ### BAB XV - BENDERA, BAHASA, DAN LAMBANG NEGARA SERTA LAGU KEBANGSAAN
 #### Pasal 35
@@ -358,22 +374,27 @@ Ketentuan lebih lanjut mengenai Bendera, Bahasa dan Lambang Negara, serta Lagu K
 
 ### BAB XVI - PERUBAHAN UNDANG-UNDANG DASAR
 #### Pasal 37
-1. Untuk mengubah Undang-Undang Dasar sekurang-kurangnya 2/3 daripada jumlah anggota Majelis Permusyawaratan Rakyat harus hadir.
-2. Putusan diambil dengan persetujuan sekurang-kurangnya 2/3 daripada jumlah anggota yang hadir.
+1. Usul perubahan pasal-pasal Undang-Undang Dasar dapat diagendakan dalam sidang Majelis Permusyawaratan Rakyat apabila diajukan oleh sekurang-kurangnya 1/3 dari jumlah anggota Majelis Permusyawaratan Rakyat.
+2. Setiap usul perubahan pasal-pasal Undang-Undang Dasar diajukan secara tertulis dan ditunjukkan dengan jelas bagian yang diusulkan untuk diubah beserta alasannya.
+3. Untuk mengubah pasal-pasal Undang-Undang Dasar, sidang Majelis Permusyawaratan Rakyat dihadiri oleh sekurang-kurangnya 2/3 dari jumlah anggota Majelis Permusyawaratan Rakyat.
+4. Putusan untuk mengubah pasal-pasal Undang-Undang Dasar dilakukan dengan persetujuan sekurang-kurangnya lima puluh persen ditambah satu anggota dari seluruh anggota Majelis Permusyawaratan Rakyat.
+5. Khusus mengenai bentuk Negara Kesatuan Republik Indonesia tidak dapat dilakukan perubahan.
 
 ### ATURAN PERALIHAN
-#### Pasal 1
-Panitia Persiapan Kemerdekaan Indonesia mengatur dan menyelenggarakan kepindahan pemerintahan kepada Pemerintah Indonesia.
+#### Pasal I
+Segala peraturan perundang-undangan yang ada masih tetap berlaku selama belum diadakan yang baru menurut Undang-Undang Dasar ini.
 
-#### Pasal 2
-Segala badan negara dan peraturan yang ada masih langsung berlaku, selama belum diadakan yang baru menurut Undang-Undang Dasar ini.
+#### Pasal II
+Semua lembaga negara yang ada masih tetap berfungsi sepanjang untuk melaksanakan ketentuan Undang-Undang Dasar dan belum diadakan yang baru menurut Undang-Undang Dasar ini.
 
-#### Pasal 3
-Untuk pertama kali Presiden dan Wakil Presiden dipilih oleh Panitia Persiapan Kemerdekaan Indonesia.
-
-#### Pasal 4
-Sebelum Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, dan Dewan Pertimbangan Agung dibentuk menurut Undang-Undang Dasar ini, segala kekuasaannya dijalankan oleh Presiden dengan bantuan sebuah komite nasional.
+#### Pasal III
+Mahkamah Konstitusi dibentuk selambat-lambatnya pada 17 Agustus 2003 dan sebelum dibentuk segala kewenangannya dilakukan oleh Mahkamah Agung.
 
 ### ATURAN TAMBAHAN
-1. Dalam enam bulan sesudah akhirnya peperangan Asia Timur Raya, Presiden Indonesia mengatur dan menyelenggarakan segala hal yang ditetapkan dalam Undang-Undang Dasar ini.
-2. Dalam enam bulan sesudah Majelis Permusyawaratan Rakyat dibentuk, Majelis itu bersidang untuk menetapkan Undang-Undang Dasar.
+#### Pasal I
+Majelis Permusyawaratan Rakyat ditugasi untuk melakukan peninjauan terhadap materi dan status hukum Ketetapan Majelis Permusyawaratan Rakyat Sementara dan Ketetapan Majelis Permusyawaratan Rakyat untuk diambil putusan pada sidang Majelis Permusyawaratan Rakyat tahun 2003.
+
+#### Pasal II
+Dengan ditetapkannya perubahan Undang-Undang Dasar ini, Undang-Undang Dasar Negara Republik Indonesia tahun 1945 terdiri atas Pembukaan dan pasal-pasal.
+
+Perubahan tersebut diputuskan dalam Rapat Paripurna Majelis Permusyawaratan Rakyat Republik Indonesia ke-6 (lanjutan) tanggal 10 Agustus 2002 Sidang Tahunan Majelis Permusyawaratan Rakyat Republik Indonesia, dan mulai berlaku pada tanggal ditetapkan.
